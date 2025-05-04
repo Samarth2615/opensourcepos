@@ -26,10 +26,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'localhost',
-        'username'     => 'admin',
-        'password'     => 'pointofsale',
-        'database'     => 'ospos',
+        'hostname'     => 'sql12.freesqldatabase.com',
+        'username'     => 'sql12776784',
+        'password'     => 'samarth@0001',
+        'database'     => 'sql12776784',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => 'ospos_',
         'pConnect'     => false,
